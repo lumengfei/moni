@@ -24,7 +24,7 @@ import com.lumengjun.service.MyService;
 
 @Controller
 public class MyController {
-		//水水水水水
+		//水水水水水也一样
 	@Autowired
 	MyService ser;
 	
